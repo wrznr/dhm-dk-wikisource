@@ -157,3 +157,14 @@ ul > li > ol > li > ul > li { font-size:1.1rem }
 .twenty{
   flex: 20%;
 }
+
+.split .pull-left {
+  float: left;
+  width: 48%;
+  margin-right: 4%;
+}
+
+.split .pull-right {
+  float: right;
+  width: 48%;
+}
