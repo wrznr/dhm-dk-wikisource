@@ -93,12 +93,11 @@ class: split
   - **Digitale Quellenbibliothek**
   - Transkription historischer Texte
   - Zugänglich & überprüfbar für alle
-
-**Wichtig:** Freiwilligenprojekt mit strengen Editionsstandards!
+- **Wichtig:** Freiwilligenprojekt mit strengen Editionsstandards!
 ]
 
 .pull-right[
-![Wikimedia-Projekte](https://upload.wikimedia.org/wikipedia/commons/4/4a/Wikimedia_project_logo_family_with_Wikivoyage.svg)
+![Wikimedia-Projekte](https://upload.wikimedia.org/wikipedia/commons/6/69/Wikimedia_logo_family_complete-2023.svg)
 ]
 
 ---
