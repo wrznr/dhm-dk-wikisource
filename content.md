@@ -43,11 +43,34 @@ count: false
 
 ---
 
-# Overview
+# ⏱ Überblick
 
-- Section 1
-  + Subsection 1
-- Section 2
+| Abschnitt               | Inhalt                                                      | Dauer  |
+|------------------------|-------------------------------------------------------------|--------|
+| **1. Einstieg**        | Wikisource im Wikimedia-Kosmos, Ziel des Workshops          | 10 min |
+| **2. Einführung**      | Was ist Wikisource? Warum ist es relevant für DH?           | 10 min |
+| **3. Überblick Workflow** | Von der Digitalisierung zur Transkription auf Wikisource | 5 min  |
+| **4. Praxisblock I**   | Scans auf Commons hochladen, Index- und Werkseite anlegen   | 25 min |
+| **5. Praxisblock II**  | OCR durchführen, erste manuelle Korrekturen                 | 25 min |
+| **6. Austausch & Fragen** | Erfahrungen, Stolpersteine, Q&A                        | 10 min |
+| **7. Ausblick**        | Nächste Schritte, Annotation, Wikidata                      | 5 min  |
+
+---
+
+class: split
+
+# 🧠 Lernziele
+
+.pull-left[
+- Wikisource als Plattform für kollaborative Editionsarbeit kennenlernen
+- Eigene Digitalisate auf Commons & Wikisource integrieren
+- OCR-basierte Transkription starten & erste Korrekturen durchführen
+- Editionsprozesse im digitalen Raum praktisch nachvollziehen
+]
+
+.pull-right[
+![Wikisource Screenshot](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Wikisource-logo.svg/220px-Wikisource-logo.svg.png)
+]
 
 ---
 
