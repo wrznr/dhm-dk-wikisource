@@ -62,10 +62,10 @@ class: split
 # 🧠 Lernziele
 
 .pull-left[
-- Wikisource als Plattform für kollaborative Editionsarbeit kennenlernen
-- Eigene Digitalisate auf Commons & Wikisource integrieren
-- OCR-basierte Transkription starten & erste Korrekturen durchführen
-- Editionsprozesse im digitalen Raum praktisch nachvollziehen
+- Wikisource als Plattform für kollaborative Editionsarbeit **kennenlernen**
+- Eigene Digitalisate auf Commons & Wikisource **integrieren**
+- OCR-basierte Transkription **starten** & erste Korrekturen **durchführen**
+- Editionsprozesse im digitalen Raum praktisch **nachvollziehen**
 ]
 
 .pull-right[
