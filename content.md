@@ -77,7 +77,29 @@ class: split
 class: part-slide
 count: false
 
-# Topic 1
+# Einstieg
+
+---
+
+class: split
+
+# 🧩 Wikisource im Wikimedia-Universum
+
+.pull-left[
+
+- Teil des Wikimedia-Projektnetzwerks
+- Schwesterprojekte: Wikipedia, Wikidata, Commons, Wikibooks etc.
+- Fokus von Wikisource:
+  - **Digitale Quellenbibliothek**
+  - Transkription historischer Texte
+  - Zugänglich & überprüfbar für alle
+
+**Wichtig:** Freiwilligenprojekt mit strengen Editionsstandards!
+]
+
+.pull-right[
+![Wikimedia-Projekte](https://upload.wikimedia.org/wikipedia/commons/4/4a/Wikimedia_project_logo_family_with_Wikivoyage.svg)
+]
 
 ---
 
