@@ -76,7 +76,7 @@ class: split
 ]
 
 .pull-right[
-![Wikisource Screenshot](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Wikisource-logo.svg/220px-Wikisource-logo.svg.png)
+![Wikisource Logo](https://upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg)
 ]
 
 ---
@@ -147,6 +147,22 @@ class: split
 
 - **Offene APIs**: Daten für Forschung & Visualisierung
 - **Praxisnah & nachhaltig**: Inhalte dauerhaft professionell gehostet
+
+---
+
+# Wikisource: Navigation und Überblick
+
+- Die Hauptseite: Aktuelle Projekte, Neuigkeiten, Links zu Anleitungen
+- Kategorien: Systematische Ordnung der Texte nach [Thema](https://de.wikisource.org/wiki/Kategorie:Philosophie), Autor, Sprache etc.
+- Portale: Thematische Zugänge zu spezifischen Inhaltsbereichen (z.B. [Portal:Deutsche Literatur](https://de.wikipedia.org/wiki/Portal:Deutsche_Literatur)).
+- Suchfunktion: Gezieltes [Finden](https://de.wikisource.org/w/index.php?fulltext=1&search=Herrnhut&title=Spezial:Suche&ns0=1&ns102=1&ns104=1) von Texten und Seiten.
+- Anleitungen: Schnelleinstieg zum Mitmachen
+  
+---
+
+# Wikisource: Werke
+
+<img width="777" alt="image" src="https://github.com/user-attachments/assets/f11e4661-2116-4506-a500-5f139e8464f3" />
 
 ---
 
