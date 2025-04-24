@@ -1,2 +1,2 @@
-# slide-template
-Template for [`remarkjs`](https://remarkjs.com/)-based slides deployed via GitHub Pages
+# dhm-dk-wikisource
+Slides and materials for the lecture on Wikisource as part of the data competence seminar within the DH Master studies at TUD
