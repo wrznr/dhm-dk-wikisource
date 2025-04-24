@@ -115,13 +115,12 @@ class: split
 
 .pull-left[
 
-- Verknüpft **Scan + Transkription** auf derselben Seite  
-- Jeder Bearbeitungsschritt ist **nachvollziehbar und versioniert**  
-- Ermöglicht **präzise Editionsarbeit** in einem kollaborativen Umfeld  
-- Funktioniert **ohne Spezialsoftware** – nur mit Browser und Account  
-- Inhalte sind **sofort öffentlich zugänglich** und nachnutzbar
-
-🧩 **Unterschied zu anderen Projekten:** Kein abgeschlossenes Editionsprodukt, sondern ein **offener, transparenter Prozess**
+- Text-Bild-Ansicht  
+- Bearbeitungsschritte **nachvollziehbar und versioniert**  
+- **präzise Editionsarbeit** in einem kollaborativen Umfeld  
+- **keine Spezialsoftware** – nur mit Browser und Account  
+- Inhalte **sofort öffentlich zugänglich** und nachnutzbar
+- Kein abgeschlossenes Editionsprodukt, sondern ein **offener, transparenter Prozess**
 ]
 
 .pull-right[
@@ -132,7 +131,7 @@ class: split
 
 class: split
 
-# 🧠 Warum Wikisource für die Digital Humanities?
+# 🧠 Warum Wikisource für die DH?
 
 .pull-left[
 - **Digitale Quellenarbeit**: Transkription historischer Texte
