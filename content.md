@@ -114,7 +114,6 @@ class: split
 # 📖 Was macht Wikisource besonders?
 
 .pull-left[
-
 - Text-Bild-Ansicht  
 - Bearbeitungsschritte **nachvollziehbar und versioniert**  
 - **präzise Editionsarbeit** in einem kollaborativen Umfeld  
@@ -124,6 +123,7 @@ class: split
 .pull-right[
 ![Seitenansicht Wikisource](https://upload.wikimedia.org/wikipedia/commons/1/1a/Wikisource_proofread-edit.png)
 ]
+
 
 - Inhalte **sofort öffentlich zugänglich** und nachnutzbar
 - Kein abgeschlossenes Editionsprodukt, sondern ein **offener, transparenter Prozess**
@@ -143,6 +143,7 @@ class: split
 .pull-right[
 ![Wikisource Text-Bild-Ansicht](img/ws-text-bild.jpeg)
 ]
+
 
 - **Offene APIs**: Daten für Forschung & Visualisierung
 - **Praxisnah & nachhaltig**: Inhalte dauerhaft professionell gehostet
