@@ -43,6 +43,13 @@ count: false
 
 ---
 
+class: part-slide
+count: false
+
+# Einstieg
+
+---
+
 # ⏱ Überblick
 
 | Abschnitt               | Inhalt                                                      | Dauer  |
@@ -77,7 +84,7 @@ class: split
 class: part-slide
 count: false
 
-# Einstieg
+# Einführung
 
 ---
 
@@ -102,10 +109,49 @@ class: split
 
 ---
 
+class: split
+
+# 📖 Was macht Wikisource besonders?
+
+.pull-left[
+
+- Verknüpft **Scan + Transkription** auf derselben Seite  
+- Jeder Bearbeitungsschritt ist **nachvollziehbar und versioniert**  
+- Ermöglicht **präzise Editionsarbeit** in einem kollaborativen Umfeld  
+- Funktioniert **ohne Spezialsoftware** – nur mit Browser und Account  
+- Inhalte sind **sofort öffentlich zugänglich** und nachnutzbar
+
+🧩 **Unterschied zu anderen Projekten:** Kein abgeschlossenes Editionsprodukt, sondern ein **offener, transparenter Prozess**
+]
+
+.pull-right[
+![Seitenansicht Wikisource](https://upload.wikimedia.org/wikipedia/commons/1/1a/Wikisource_proofread-edit.png)
+]
+
+---
+
+class: split
+
+# 🧠 Warum Wikisource für die Digital Humanities?
+
+.pull-left[
+- **Digitale Quellenarbeit**: Transkription historischer Texte
+- **Quelle für Korpuszusammenstellung**: Texte frei verfüg- und nachnutzbar
+- **Verknüpfbar mit Wikidata**: Strukturierte Metadaten
+- **Offene APIs**: Daten für Forschung & Visualisierung
+- **Praxisnah & nachhaltig**: Inhalte dauerhaft professionell gehostet
+]
+
+.pull-right[
+![Wikisource Text-Bild-Ansicht](img/ws-text-bild.jpeg)
+]
+
+---
+
 class: part-slide
 
-# Many thanks for your attention!
+# Vielen Dank für Ihre Aufmerksamkeit!
 
 <center>
-<a href="https://wrznr.github.io/slide-template/">wrznr.github.io/slide-template</a>
+<a href="https://wrznr.github.io/dhm-dk-wikisource/">wrznr.github.io/dhm-dk-wikisource</a>
 </center>
