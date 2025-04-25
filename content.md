@@ -292,6 +292,72 @@ class: split
 
 ---
 
+# Korrekturstrategien
+
+- **OCR mehrfach durchführen:** Unterschiedliche Engines und Modelle
+- **Seite-für-Seite-Vergleich:** Scan und OCR-Text nebeneinander betrachten.
+- **Sorgfältiges Lesen:** Langsam und konzentriert lesen.
+- **Auf typische OCR-Fehler achten:** z.B. Verwechslung ähnlicher Buchstaben (i/l, o/0, c/e).
+- **Umgang mit Sonderzeichen:** Nutzung der Spezialzeichen-Auswahl unter dem Editierfenster.
+- **Unsicherheiten kennzeichnen:** Wenn ein Zeichen nicht eindeutig lesbar ist (z.B. mit `{{fraglich|?}}`).
+
+---
+
+class: split
+
+
+# Diskussionsseiten nutzen
+
+Jede Seite auf Wikisource hat eine zugehörige Diskussionsseite.
+
+.pull-left[
+Anwendungsbeispiele:
+- Fragen zu unklaren Textstellen
+- Diskussion über die korrekte Transkription
+- Hinweise auf Fehler oder Verbesserungsvorschläge
+- kollaborative Klärung schwieriger Passagen
+- lebhafte Community in Dresden (insb. [Wikisource-Sprechstunde in der SLUB](https://de.wikisource.org/wiki/Wikisource:Wikisource-Informationsstand_SLUB))
+]
+
+.pull-right[
+![Wikisource Informationsstand](https://upload.wikimedia.org/wikipedia/commons/e/ee/20220925120DR_Dresden_Andreas_Wagner_SLUB_Wikisource.jpg)
+]
+
+---
+
+class: split
+
+# Eigennamen & Ortsnamen auszeichnen
+
+.pull-left[
+- einheitliche Darstellung
+    + ggf. Editionsrichtlinien anpassen
+- semantische, desambiguierte Anreicherung
+- Verlinkung zu Personen-/Ortseinträgen
+- Grundlage für DH-Auswertungen
+]
+
+.pull-right[
+<img width="462" alt="annotations" src="https://github.com/user-attachments/assets/91f6721a-8bf0-4ec4-9f13-770bdc434ef4" />
+]
+
+---
+
+# 🛠️ Methoden
+
+| Typ                         | Syntax                                         | Wirkung                                   |
+|----------------------------|------------------------------------------------|-------------------------------------------|
+| Verlinkung auf Artikel     | `[[Goethe]]`                                   | Link auf Artikel                          |
+| Link mit Anzeige-Text      | `[[Johann Wolfgang von Goethe|Goethe]]`       | benutzerdefinierte Anzeige                |
+| Semantisch: Person         | `{{Person|Goethe}}`                            | typisierte, nicht klickbare Markierung    |
+| Semantisch: Ort            | `{{Ort|Weimar}}`                               | wie oben, für Orte                        |
+| Semantik + Link kombiniert | `{{Person|[[Goethe]]}}`                        | beides zusammen                           |
+| Fußnote/Kommentar          | `Goethe<ref>...Info...</ref>`                 | zusätzliche Erklärung                     |
+| **🔗 Wikidata-Link**            | `[[:d:Q762|Goethe]]`                         | Link direkt zu Wikidata                   |
+| **Wikidata + Semantik**         | `{{Person|[[:d:Q762|Goethe]]}}`             | Person mit direkter Wikidata-Verknüpfung |
+
+---
+
 class: part-slide
 
 # Vielen Dank für Ihre Aufmerksamkeit!
