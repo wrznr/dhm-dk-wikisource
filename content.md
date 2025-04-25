@@ -338,23 +338,26 @@ class: split
 ]
 
 .pull-right[
-<img width="462" alt="annotations" src="https://github.com/user-attachments/assets/91f6721a-8bf0-4ec4-9f13-770bdc434ef4" />
+<img width="300" alt="annotations" src="https://github.com/user-attachments/assets/91f6721a-8bf0-4ec4-9f13-770bdc434ef4" />
 ]
 
 ---
 
-# 🛠️ Methoden
+# 🛠️ Auszeichnungsformen
 
-| Typ                         | Syntax                                         | Wirkung                                   |
-|----------------------------|------------------------------------------------|-------------------------------------------|
-| Verlinkung auf Artikel     | `[[Goethe]]`                                   | Link auf Artikel                          |
-| Link mit Anzeige-Text      | `[[Johann Wolfgang von Goethe|Goethe]]`       | benutzerdefinierte Anzeige                |
-| Semantisch: Person         | `{{Person|Goethe}}`                            | typisierte, nicht klickbare Markierung    |
-| Semantisch: Ort            | `{{Ort|Weimar}}`                               | wie oben, für Orte                        |
-| Semantik + Link kombiniert | `{{Person|[[Goethe]]}}`                        | beides zusammen                           |
-| Fußnote/Kommentar          | `Goethe<ref>...Info...</ref>`                 | zusätzliche Erklärung                     |
-| **🔗 Wikidata-Link**            | `[[:d:Q762|Goethe]]`                         | Link direkt zu Wikidata                   |
-| **Wikidata + Semantik**         | `{{Person|[[:d:Q762|Goethe]]}}`             | Person mit direkter Wikidata-Verknüpfung |
++ **🔗 Verlinkung auf Artikel**
+    + `[[Goethe]]` → Link auf Artikel
+    + `[[Johann Wolfgang von Goethe|Goethe]]` → benutzerdefinierte Anzeige
++ **🧠 Semantische Auszeichnung (ohne Link)**
+    + `{{Person|Goethe}}` → typisierte, nicht klickbare Markierung
+    + `{{Ort|Weimar}}` → typisierter Ortsname
++ **🧠 + 🔗 Kombination (Semantik + Link)**
+    + `{{Person|[[Goethe]]}}` → typisiert & verlinkt
++ **📎 Fußnoten & Anmerkungen**
+    + `Goethe<ref>Deutscher Dichter (1749–1832)</ref>` → Zusatzinfo
++ **🔗 Verlinkung zu Wikidata**
+    + `[[:d:Q762|Goethe]]` → direkte Verlinkung zu Wikidata
+    + `{{Person|[[:d:Q762|Goethe]]}}` → Wikidata-Link + semantische Typisierung
 
 ---
 
