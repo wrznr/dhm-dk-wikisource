@@ -161,7 +161,7 @@ class: split
 
 # Werke
 
-<a href="https://de.wikisource.org/wiki/Die_R%C3%A4uber"><img width="777" alt="Die Räuber bei Wikisource" src="https://github.com/user-attachments/assets/f11e4661-2116-4506-a500-5f139e8464f3" /></a>
+<a href="https://de.wikisource.org/wiki/Die_R%C3%A4uber"><img width="600" alt="Die Räuber bei Wikisource" src="https://github.com/user-attachments/assets/f11e4661-2116-4506-a500-5f139e8464f3" /></a>
 
 ---
 
@@ -212,9 +212,57 @@ class:split
 ]
 
 .pull-right[
-<img width="327" alt="image" src="https://github.com/user-attachments/assets/a3bfe4e6-79c4-4c4e-a0e1-202102adb954" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/a3bfe4e6-79c4-4c4e-a0e1-202102adb954" />
 ]
 
+---
+
+# Indexseite anlegen
+
+1. PDF auf Wikimedia Commons hochladen
+2. Auf Wikisource aufrufen:
+   `https://de.wikisource.org/wiki/Index:MeinWerk.pdf`
+3. Formular ausfüllen:
+    - **Bild**: Dateiname auf Commons (z. B. `[[File:Brief aus Brüssel.pdf|page=3|thumb]]`)
+    - **Autor**: (optional) Verfasser
+    - **Titel**: Werktitel
+    - **Seiten**: Relevante Scans (z. B. `<pagelist from=3 to=10 3=1 />`)
+    - **Bearbeitungsstand**: Unkorrigiert
+    - **Kategorien**: Textpatenschaften DH 2025
+4. Speichern ✔️
+
+> Ergebnis: Seitenübersicht wird automatisch erzeugt!
+
+---
+
+# 📚 Werkseite anlegen
+
+1. Neue Seite erstellen, z. B.:
+   `https://de.wikisource.org/wiki/Mein_Werk`
+2. Inhalt einfügen:
+    - Vorlage `Textdaten`
+    - Metadaten erneut eingeben
+    - jede Menge Tweaks vorhanden, Orientierung an *Leuchttürmen*
+    - Später: korrigierte Seiten ergänzen
+  
+---
+
+#  🛠️ Einzelne Seiten bearbeiten
+
+1. In der Index-Seite auf eine Seitenzahl klicken
+2. Auf der Seite (z. B. `Seite:MeinWerk.pdf/9`):
+   - „Bearbeiten“ klicken ✏️
+   - „OCR“-Knopf drücken, Modelle wählen, transkribieren
+3. Text korrigieren:
+   - Rechtschreibung prüfen
+   - Originaltreue beachten
+4. Korrekturstatus setzen:
+   - 🔴 Unkorrigiert
+   - 🟡 Korrigiert
+   - 🟢 Geprüft
+5. Speichern ✔️
+
+> Seite für Seite entsteht der neue, transkribierte Text!
 
 ---
 
