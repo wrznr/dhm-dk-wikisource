@@ -316,12 +316,13 @@ Anwendungsbeispiele:
 - Diskussion über die korrekte Transkription
 - Hinweise auf Fehler oder Verbesserungsvorschläge
 - kollaborative Klärung schwieriger Passagen
-- lebhafte Community in Dresden (insb. [Wikisource-Sprechstunde in der SLUB](https://de.wikisource.org/wiki/Wikisource:Wikisource-Informationsstand_SLUB))
 ]
 
 .pull-right[
 ![Wikisource Informationsstand](https://upload.wikimedia.org/wikipedia/commons/e/ee/20220925120DR_Dresden_Andreas_Wagner_SLUB_Wikisource.jpg)
 ]
+
+lebhafte Community in Dresden (insb. [Wikisource-Sprechstunde in der SLUB](https://de.wikisource.org/wiki/Wikisource:Wikisource-Informationsstand_SLUB))
 
 ---
 
