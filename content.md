@@ -245,6 +245,9 @@ class:split
     - jede Menge Tweaks vorhanden, Orientierung an *Leuchttürmen*
     - Später: korrigierte Seiten ergänzen
   
+- auch für Autoren mgl. (vgl. [Schiller](https://de.wikisource.org/wiki/Friedrich_Schiller))
+    + Vorlage `Personendaten` 
+  
 ---
 
 #  🛠️ Einzelne Seiten bearbeiten
@@ -263,6 +266,29 @@ class:split
 5. Speichern ✔️
 
 > Seite für Seite entsteht der neue, transkribierte Text!
+
+---
+
+class: split
+
+# Bearbeitungsoberfläche
+
+.pull-left[
+- Textbereich
+- Werkzeugleiste (fett, kursiv, Überschriften, etc.)
+- Spezialzeichen-Auswahl
+- **Vorschau-Button**
+- Zusammenfassungsfeld
+- Änderungen speichern
+]
+
+.pull-right[
+- grundlegende Formatierung
+    + Fett und Kursiv: Verwendung von `'''fett'''` und `''kursiv''`
+    + Überschriften: Verwendung von `== Überschrift 1 ==`, `=== Überschrift 2 ===` etc.
+    + Zeilenumbrüche (manuell): `<br>` (sparsam verwenden!)
+    + Listen: Verwendung von `*` für unsortierte und `#` für sortierte Listen
+]
 
 ---
 
