@@ -56,11 +56,10 @@ count: false
 |------------------------|-------------------------------------------------------------|--------|
 | **1. Einstieg**        | Wikisource im Wikimedia-Kosmos, Ziel des Workshops          | 10 min |
 | **2. Einführung**      | Was ist Wikisource? Warum ist es relevant für DH?           | 10 min |
-| **3. Überblick Workflow** | Von der Digitalisierung zur Transkription auf Wikisource | 5 min  |
-| **4. Praxisblock I**   | Scans auf Commons hochladen, Index- und Werkseite anlegen   | 25 min |
-| **5. Praxisblock II**  | OCR durchführen, erste manuelle Korrekturen                 | 25 min |
-| **6. Austausch & Fragen** | Erfahrungen, Stolpersteine, Q&A                        | 10 min |
-| **7. Ausblick**        | Nächste Schritte, Annotation, Wikidata                      | 5 min  |
+| **3. Praxisblock I**   | Scans auf Commons hochladen, Index- und Werkseite anlegen   | 25 min |
+| **4. Praxisblock II**  | OCR durchführen, erste manuelle Korrekturen                 | 25 min |
+| **5. Austausch & Fragen** | Erfahrungen, Stolpersteine, Q&A                        | 10 min |
+| **6. Ausblick**        | Nächste Schritte, Annotation, Wikidata                      | 5 min  |
 
 ---
 
@@ -150,19 +149,72 @@ class: split
 
 ---
 
-# Wikisource: Navigation und Überblick
+# Navigation und Überblick
 
-- Die Hauptseite: Aktuelle Projekte, Neuigkeiten, Links zu Anleitungen
-- Kategorien: Systematische Ordnung der Texte nach [Thema](https://de.wikisource.org/wiki/Kategorie:Philosophie), Autor, Sprache etc.
-- Portale: Thematische Zugänge zu spezifischen Inhaltsbereichen (z.B. [Portal:Deutsche Literatur](https://de.wikipedia.org/wiki/Portal:Deutsche_Literatur)).
-- Suchfunktion: Gezieltes [Finden](https://de.wikisource.org/w/index.php?fulltext=1&search=Herrnhut&title=Spezial:Suche&ns0=1&ns102=1&ns104=1) von Texten und Seiten.
-- Anleitungen: Schnelleinstieg zum Mitmachen
+- **Die Hauptseite**: Aktuelle Projekte, Neuigkeiten, Links zu Anleitungen
+- **Kategorien**: Systematische Ordnung der Texte nach [Thema](https://de.wikisource.org/wiki/Kategorie:Philosophie), Autor, Sprache etc.
+- **Portale**: Thematische Zugänge zu spezifischen Inhaltsbereichen (z.B. [Portal:Literatur](https://de.wikisource.org/wiki/Literatur)).
+- **Suchfunktion**: Gezieltes [Finden](https://de.wikisource.org/w/index.php?fulltext=1&search=Herrnhut&title=Spezial:Suche&ns0=1&ns102=1&ns104=1) von Texten und Seiten.
+- **Anleitungen**: Schnelleinstieg zum Mitmachen
   
 ---
 
-# Wikisource: Werke
+# Werke
 
-<img width="777" alt="image" src="https://github.com/user-attachments/assets/f11e4661-2116-4506-a500-5f139e8464f3" />
+<a href="https://de.wikisource.org/wiki/Die_R%C3%A4uber"><img width="777" alt="Die Räuber bei Wikisource" src="https://github.com/user-attachments/assets/f11e4661-2116-4506-a500-5f139e8464f3" /></a>
+
+---
+
+# Editionsrichtlinien
+
+- **Originalgetreue Wiedergabe**: So nah wie möglich am Original bleiben.
+- **Umgang mit Orthographie**: In der Regel die Originalschreibweise beibehalten.
+- **Zeilenumbrüche**: Können übernommen werden, sind aber nicht immer zwingend.
+- **Fehler im Original**: In der Regel nicht korrigieren, aber ggf. in Anmerkungen festhalten.
+- **Auszeichnungen**: Verwendung von einfachen Auszeichnungen für Hervorhebungen (kursiv, fett).
+
+[Zu den Richtlinien](https://de.wikisource.org/wiki/Wikisource:Editionsrichtlinien)
+
+---
+
+class: part-slide
+count: false
+
+# Praxisblock
+
+---
+
+# Vorbereitung des Materials für den Upload
+
+- Gemeinfreiheit prüfen!
+- Geeignete Dokumente: Kurze, gut lesbare Texte für den Einstieg.
+- Scannen: Wenn kein digitales Original vorhanden ist:
+    + Auf gute Qualität achten (ausreichende Auflösung, keine Verzerrungen).
+    + Als TIFF oder PDF speichern (ggf. als DjVu für mehrseitige Dokumente).
+- Benutzerkonto erstellen
+
+---
+
+class:split
+
+# Der Upload-Prozess
+
+.pull-left[
+- via [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:UploadWizard?uselang=de)
+    + zentrales Medienrepositorium für Wikiversum
+    + Bilder, Audio, Video ...
+    + definierte Nutzungsrechte = rechtssichere Nutzung  
+- Datei auswählen und beschreiben
+    + Urheber, Erscheinungsdatum
+    + Quelle
+    + Lizenz
+- Dateinamen merken
+]
+
+.pull-right[
+<img width="327" alt="image" src="https://github.com/user-attachments/assets/a3bfe4e6-79c4-4c4e-a0e1-202102adb954" />
+]
+
 
 ---
 
